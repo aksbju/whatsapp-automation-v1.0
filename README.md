@@ -1,5 +1,4 @@
 # whatsapp-automation-v1.0
-Description: WhatsApp automation with WhatsAppWeb based on selenium
  
  requirements excluding standard library
  
